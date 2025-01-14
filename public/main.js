@@ -1,6 +1,6 @@
 "use strict";
 
-const API_URL = "https://carparking-1es7.onrender.com";
+const API_URL = "https://carparkingcampinas-dsw.onrender.com";
 
 let isAdmin = false;
 
